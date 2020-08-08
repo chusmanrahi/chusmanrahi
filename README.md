@@ -1,5 +1,7 @@
 ### Hi, I'm Usman 👋
 
+<img src="https://raw.githubusercontent.com/chusmanrahi/chusmanrahi/master/banner.jpg" alt="Usman Bio" />
+
 I have been working as a full-stack web developer for the past 4 years.
 
 My expertise are:
